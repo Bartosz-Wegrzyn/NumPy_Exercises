@@ -1,11 +1,11 @@
 # NumPy_Exercises
 
 
-1. Import numpy as np and see the version
-2. How to create a 1D array?
-3. How to create a boolean array?
-4. How to extract items that satisfy a given condition from 1D array?
-5. How to replace items that satisfy a condition with another value in numpy array?
+1. Import numpy as np and see the version ```Done✅```
+2. How to create a 1D array? ```Done✅```
+3. How to create a boolean array? ```Done✅```
+4. How to extract items that satisfy a given condition from 1D array? ```Done✅```
+5. How to replace items that satisfy a condition with another value in numpy array? ```Done✅```
 6. How to replace items that satisfy a condition without affecting the original array?
 7. How to reshape an array?
 8. How to stack two arrays vertically?
