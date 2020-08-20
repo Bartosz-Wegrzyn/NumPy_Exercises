@@ -6,10 +6,10 @@
 3. How to create a boolean array? ```Done✅```
 4. How to extract items that satisfy a given condition from 1D array? ```Done✅```
 5. How to replace items that satisfy a condition with another value in numpy array? ```Done✅```
-6. How to replace items that satisfy a condition without affecting the original array?
-7. How to reshape an array?
-8. How to stack two arrays vertically?
-9. How to stack two arrays horizontally?
+6. How to replace items that satisfy a condition without affecting the original array? ```Done✅```
+7. How to reshape an array? ```Done✅```
+8. How to stack two arrays vertically? ```Done✅```
+9. How to stack two arrays horizontally? ```Done✅```
 10. How to generate custom sequences in numpy without hardcoding?
 11. How to get the common items between two python numpy arrays?
 12. How to remove from one array those items that exist in another?
